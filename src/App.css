@@ -84,3 +84,9 @@
   border-bottom: 0;
 }
 /**/
+
+.canvas-drone {
+  width: 512px;
+  height: 512px;
+  position: absolute;
+}
